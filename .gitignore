@@ -1,0 +1,5 @@
+
+*.sqlite
+node_modules
+package-lock*
+.vscode
